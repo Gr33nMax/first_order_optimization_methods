@@ -9,7 +9,7 @@ This script helps to minimize the objective function. It implements such methods
 * Fibonacci method
 * Quadratic interpolation method
 
-And shows the number of iterations spent by each method.
+And shows the number of iterations spent by each method. And also displays a graph with an interval at which there is a minimum.
 
 # Requirements
 - Python 3.6+
